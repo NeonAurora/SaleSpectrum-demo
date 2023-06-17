@@ -20,13 +20,8 @@ const ResetPass = () => {
 
     if (newPassword !== confirmPassword) {
       console.error("Passwords do not match");
-      // Show an error message to the user
       return;
-    }
-
-    // Send the new password to the backend to update it
-
-    // After the password is updated, navigate to the login page
+    } 
     navigate("/login");
   };
 

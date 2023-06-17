@@ -8,10 +8,8 @@ export const resetApi = createApi({
   baseQuery: customFetchBaseQuery,
   reducerPath: "resetApi",
   tagTypes: [
-    // Your tag types
   ],
   endpoints: (build) => ({
-    // Your other endpoints
 
     requestPasswordReset: build.mutation({
       query: (email) => ({
@@ -40,7 +38,6 @@ export const resetApi = createApi({
 });
 
 export const {
-  // Your other hooks
 
   useRequestPasswordResetMutation,
   useVerifyOtpMutation,

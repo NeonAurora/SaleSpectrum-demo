@@ -9,7 +9,7 @@ import { Dialog, DialogTitle, DialogContent } from "@mui/material";
 const Transactions = () => {
   const theme = useTheme();
 
-  // values to be sent to the backend
+  // State Variables
   const [page, setPage] = useState(0);
   const [pageSize, setPageSize] = useState(20);
   const [sort, setSort] = useState({});

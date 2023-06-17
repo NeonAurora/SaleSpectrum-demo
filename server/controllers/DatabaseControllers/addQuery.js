@@ -91,11 +91,7 @@ export const addCustomTrade = async (req, res) => {
 export const addStat = async (req, res) => {
   try {
     console.log("Request body:", req.body);
-
-    // Hash the password before saving the user
     const hashedPassword = await bcrypt.hash(req.body.password, 12);
-    
-    // Replace the plain-text password with the hashed password
     const userWithHashedPassword = {
       ...req.body,
       password: hashedPassword,

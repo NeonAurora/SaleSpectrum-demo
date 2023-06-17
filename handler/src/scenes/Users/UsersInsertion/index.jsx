@@ -85,7 +85,7 @@ const UserInsertion = () => {
     e.preventDefault();
 
     try {
-      console.log("User data:", userData); // Add this line to log the data
+      console.log("User data:", userData);
       await userService.addUser(userData);
       alert("User data submitted successfully");
     } catch (error) {

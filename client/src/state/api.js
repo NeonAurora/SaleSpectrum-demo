@@ -55,7 +55,6 @@ export const api = createApi({
       }),
       providesTags: ["customTrades"],
     }),
-    // Add this to your endpoints in state/api.js
     getCustomTradeAudio: build.query({
       query: (transactionId) => `client/customTrades/${transactionId}/audio`,
       providesTags: ["CustomTrades"],

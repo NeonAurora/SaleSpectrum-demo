@@ -6,7 +6,6 @@ import { updateOverallStat } from "../../controllers/DatabaseControllers/setQuer
 
 const router = express.Router();
 
-// Router definitions
 router.post("/add", addOverallStat);
 router.get("/search/:id", searchOverallStat);
 router.delete("/delete/:_id", deleteOverallStat);

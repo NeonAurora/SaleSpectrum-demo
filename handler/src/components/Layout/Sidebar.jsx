@@ -10,7 +10,6 @@ const Sidebar = () => {
     { label: "Products", path: "/products" },
     { label: "Product Stats", path: "/productStats" },
     { label: "Custom Trades", path: "/customTrades" },
-    // Add more pages here
   ];
 
   return (

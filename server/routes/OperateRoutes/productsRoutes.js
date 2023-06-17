@@ -6,7 +6,6 @@ import { updateProduct } from "../../controllers/DatabaseControllers/setQuery.js
 
 const router = express.Router();
 
-// Router definitions
 router.post("/add", addProduct);
 router.get("/search/:id", searchProduct);
 router.delete("/delete/:_id", deleteProduct);

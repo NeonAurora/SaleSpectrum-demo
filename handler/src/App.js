@@ -31,7 +31,6 @@ function App() {
                 <Route path="/productStats/*" element={<ProductStatPage />} />
                 <Route path="/customTrades/*" element={<CustomTradePage />} />
               </Route>
-              {/* Add your other routes here */}
             </Routes>
           {/* </SubpageContext.Provider> */}
         </ThemeProvider>

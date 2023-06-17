@@ -48,7 +48,7 @@ const AuditLogs = () => {
       field: "salesImpact",
       headerName: "Sales Impact",
       flex: 1,
-      valueFormatter: ({ value }) => value.toFixed(2), // Optional: Format to 2 decimal places.
+      valueFormatter: ({ value }) => value.toFixed(2), 
     },
   ];
 

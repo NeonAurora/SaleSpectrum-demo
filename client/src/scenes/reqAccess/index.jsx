@@ -14,7 +14,7 @@ const RequestAccess = () => {
   const theme = useTheme();
   const navigate = useNavigate();
 
-  // Create state variables for all our form fields
+  // sState Variables
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -24,14 +24,14 @@ const RequestAccess = () => {
   const [occupation, setOccupation] = useState("");
   const [phoneNumber, setPhoneNumber] = useState("");
 
-  // Get our mutation hook from RTK Query
+  
   const [createAccountRequest] = useCreateAccountRequestMutation();
 
-  // Function to handle form submission
+  
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // Call our mutation with the form data
+    
     try {
       await createAccountRequest({
         name,
@@ -43,11 +43,9 @@ const RequestAccess = () => {
         occupation,
         phoneNumber,
       });
-      // If successful, navigate back to the login page
       navigate("/login");
     } catch (error) {
       console.error("Failed to request account:", error);
-      // Handle errors, e.g., show a notification
     }
   };
 

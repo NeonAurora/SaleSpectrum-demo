@@ -45,11 +45,9 @@ const LoginPage = () => {
         navigate("/dashboard");
       } else {
         console.error("Unexpected login response:", response);
-        // Handle login errors, e.g., show a notification
       }
     } catch (error) {
       console.error("Login failed:", error.message);
-      // Handle login errors, e.g., show a notification
     }
   };
 
@@ -214,4 +212,3 @@ const LoginPage = () => {
 };
 
 export default LoginPage;
-// code ends here

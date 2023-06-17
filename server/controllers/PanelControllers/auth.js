@@ -97,15 +97,9 @@ export const forgotPass = async(req,res) => {
       return res.status(404).json({ message: "User not found." });
     }
 
-    // Generate OTP
+  
     const otp = crypto.randomBytes(3).toString('hex');
-
-    // Store OTP in map
     otpMap.set(email, otp);
-
-    // Here you should normally send the OTP to the user's email address
-
-    // For testing purposes we will just send it in the response
     res.status(200).json({ otp });
 
   } catch (error) {
@@ -145,8 +139,6 @@ export const resetPass = async(req,res) => {
     const hashedPassword = await bcrypt.hash(password, 12);
     user.password = hashedPassword;
     await user.save();
-
-    // Remove the OTP from the map after resetting the password
     otpMap.delete(email);
 
     res.status(200).json({ message: "Password reset successful." });

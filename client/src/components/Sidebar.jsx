@@ -95,14 +95,6 @@ const navItems = [
     text: "Radial",
     icon: <AdminPanelSettingsOutlined />,
   },
-  {
-    text: "Admin",
-    icon: <AdminPanelSettingsOutlined />,
-  },
-  {
-    text: "Performance",
-    icon: <TrendingUpOutlined />,
-  },
 ];
 
 const Sidebar = ({
@@ -209,15 +201,6 @@ const Sidebar = ({
           <Box position="relative" bottom="0.5rem">
             <Divider />
             <FlexBetween textTransform="none" gap="1rem" m="1.5rem 2rem 0 3rem">
-              <Box
-                component="img"
-                alt="profile"
-                src={profileImage}
-                height="40px"
-                width="40px"
-                borderRadius="50%"
-                sx={{ objectFit: "cover" }}
-              />
               <Box textAlign="left">
                 <Typography
                   fontWeight="bold"

@@ -23,19 +23,19 @@ const RadialChart = ({ isDashboard = false }) => {
   ];
 
   const formattedData = data.map((log, i) => {
-    console.log("log.name", log.name); // log the name from the log
-    console.log("log", log); // log the entire log object to check its structure
+    console.log("log.name", log.name);
+    console.log("log", log);
 
     return {
-      name: log.name, // change this to the relevant data point
-      uv: log.salesImpact, // sales impact is now the value
-      fill: colors[i % colors.length], // cycle through colors if more data than colors
+      name: log.name, 
+      uv: log.salesImpact,
+      fill: colors[i % colors.length], 
     };
   });
 
   console.log('formattedData', formattedData);
 
-  // Define style for the legend
+  // Legend Style
   const style = {
     top: '50%',
     right: 0,
@@ -87,7 +87,6 @@ const RadialChart = ({ isDashboard = false }) => {
       >
         <Typography variant="h6">
         {!isDashboard && `Total: ${totalSalesImpact}`} 
-          {/* Add code to calculate the total sales impact */}
         </Typography>
       </Box>
     </Box>

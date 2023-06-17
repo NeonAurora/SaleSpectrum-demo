@@ -262,7 +262,6 @@ const ProductStatsInsertion = () => {
         </Button>
       </Box>
 
-      {/* ... other form elements */}
     </Box>
   );
 };

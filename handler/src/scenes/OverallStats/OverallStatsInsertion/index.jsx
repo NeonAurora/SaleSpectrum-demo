@@ -153,7 +153,7 @@ const OverallStatsInsertion = () => {
 
     setCategories(
       [...Array(3).keys()].map((i) => ({
-        id: i, // Add this line
+        id: i,
         category: `Category ${i + 1}`,
         sales: getRandomInt(1, 5),
       }))
@@ -198,7 +198,6 @@ const OverallStatsInsertion = () => {
         padding: "2rem",
       }}
     >
-      {/* ... other form elements */}
 
       <Box component="form" width="100%">
         <Typography variant="h6">Total Customers:</Typography>
@@ -266,7 +265,6 @@ const OverallStatsInsertion = () => {
           >
             Add Category
           </Button>
-          {/* ... other buttons */}
         </Box>
         <Box
           id="monthly-data"
@@ -314,7 +312,6 @@ const OverallStatsInsertion = () => {
           </Box>
         </Box>
 
-        {/* ... other form elements */}
       </Box>
 
       <Box>
@@ -340,8 +337,6 @@ const OverallStatsInsertion = () => {
           Submit
         </Button>
       </Box>
-
-      {/* ... other form elements */}
     </Box>
   );
 };

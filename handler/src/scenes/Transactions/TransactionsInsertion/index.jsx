@@ -4,7 +4,6 @@ import { Box, TextField, Typography, Button } from "@mui/material";
 import { useTheme } from "@mui/system";
 import ProductEntry from "components/Transactions/ProductEntry";
 import { v4 as uuidv4 } from "uuid";
-// import * as mm from "music-metadata-browser"; 
 
 const TransactionsInsertion = () => {
   const [userId, setuserId] = useState("");
@@ -33,11 +32,9 @@ const TransactionsInsertion = () => {
 
     console.log("Submitting transaction data:", currentTransactionData);
 
-    // Create a FormData object and append the audio file
     const formData = new FormData();
     formData.append("audio", audioFile);
 
-    // Append the transaction data as a JSON string
     formData.append(
       "transactionData",
       JSON.stringify({ ...currentTransactionData, ...audioMetadata })
@@ -165,7 +162,6 @@ const TransactionsInsertion = () => {
           >
             Add Product
           </Button>
-          {/* ... other buttons */}
         </Box>
         <Box>
           <Typography variant="h6">Audio File:</Typography>
@@ -176,7 +172,6 @@ const TransactionsInsertion = () => {
           />
         </Box>
 
-        {/* ... other form elements */}
       </Box>
 
       <Box>
@@ -203,7 +198,6 @@ const TransactionsInsertion = () => {
         </Button>
       </Box>
 
-      {/* ... other form elements */}
     </Box>
   );
 };
