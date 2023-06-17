@@ -1,0 +1,234 @@
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\appsettings.Development.json
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\appsettings.json
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\AuditApi.exe
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\AuditApi.deps.json
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\AuditApi.runtimeconfig.json
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\AuditApi.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\AuditApi.pdb
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Azure.Core.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Humanizer.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\MySqlConnector.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.csproj.AssemblyReference.cache
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.AssemblyInfoInputs.cache
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.AssemblyInfo.cs
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.MvcApplicationPartsAssemblyInfo.cache
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.AuditApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.build.AuditApi.props
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuditApi.props
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuditApi.props
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\scopedcss\bundle\AuditApi.styles.css
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.csproj.CopyComplete
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\refint\AuditApi.dll
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.pdb
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\AuditApi.genruntimeconfig.cache
+D:\WORKSHOP\WEB\ASP\AuditApi\obj\Debug\net7.0\ref\AuditApi.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\appsettings.Development.json
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\appsettings.json
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\AuditApi.exe
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\AuditApi.deps.json
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\AuditApi.runtimeconfig.json
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\AuditApi.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\AuditApi.pdb
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Azure.Core.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Humanizer.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\MySqlConnector.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.csproj.AssemblyReference.cache
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.AssemblyInfoInputs.cache
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.AssemblyInfo.cs
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.MvcApplicationPartsAssemblyInfo.cache
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.AuditApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.build.AuditApi.props
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuditApi.props
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuditApi.props
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\scopedcss\bundle\AuditApi.styles.css
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.csproj.CopyComplete
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\refint\AuditApi.dll
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.pdb
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\AuditApi.genruntimeconfig.cache
+D:\WORKSHOP\WEB\Fresh Sample\MERN\AuditApi\obj\Debug\net7.0\ref\AuditApi.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\appsettings.Development.json
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\appsettings.json
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\AuditApi.exe
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\AuditApi.deps.json
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\AuditApi.runtimeconfig.json
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\AuditApi.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\AuditApi.pdb
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Azure.Core.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Humanizer.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\MySqlConnector.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.csproj.AssemblyReference.cache
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.AssemblyInfoInputs.cache
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.AssemblyInfo.cs
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.MvcApplicationPartsAssemblyInfo.cache
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.AuditApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.build.AuditApi.props
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuditApi.props
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuditApi.props
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\scopedcss\bundle\AuditApi.styles.css
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.csproj.CopyComplete
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\refint\AuditApi.dll
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.pdb
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\AuditApi.genruntimeconfig.cache
+D:\WORKSHOP\WEB\Showcase\AuditApi\obj\Debug\net7.0\ref\AuditApi.dll
